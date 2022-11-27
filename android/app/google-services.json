@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854580409080",
+    "project_id": "gerenciamentoloja-cfcec",
+    "storage_bucket": "gerenciamentoloja-cfcec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854580409080:android:8c5238a55d3f2b957a810d",
+        "android_client_info": {
+          "package_name": "com.example.gerente_loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854580409080-qmnuhbrermmbggqg1hjtqqg8gmqkt608.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPeXlvusoq_KQi5cWQ1yV3U3w4c_mqVcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854580409080-qmnuhbrermmbggqg1hjtqqg8gmqkt608.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
